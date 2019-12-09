@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeepLearningApp</string>
+    <string name="go_button">Go!</string>
+</resources>
