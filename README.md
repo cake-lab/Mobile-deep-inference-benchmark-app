@@ -1,6 +1,6 @@
 # MODI Benchmark App
 
-MODI is a project to leverage dynamic inference location selection to meet SLAs and increase accuracy whenever possible.
+MODI is a [Cake Lab](https://cake-lab.github.io/) project to leverage dynamic inference location selection to meet SLAs and increase accuracy whenever possible.
 This benchmark application was developed to support the research presented in [MODI: Mobile Deep Inference Made Efficient by Edge Computing](https://www.usenix.org/conference/hotedge18/presentation/ogden).
 
 Deep Learning Inference is increasing in popularity for mobile applications, allowing them to leverage new features like speech-to-text and image classification.
@@ -31,6 +31,10 @@ This server runs using python3 and relevant requirements can be found in `Sample
 
 Local inference requires Android API 23 or above.
 
+## Related projects
+
+Other projects can be found at [The Cake Lab's Project Site](https://cake-lab.github.io/projects/).
+
 ## References 
 
 We ask that academic works which use this code reference the AdaptSize paper:
@@ -47,8 +51,12 @@ month = jul,
 }
 ```
 
-More details can be found on the [conference page](https://www.usenix.org/conference/hotedge18/presentation/ogden)
+More publication details can be found on the [conference page](https://www.usenix.org/conference/hotedge18/presentation/ogden).
 
 ## Contact
 
 * Samuel S. Ogden [ssogden@wpi.edu](mailto:ssogden@wpi.edu)
+
+## Acknowledgments
+
+This work is supported in part by NFS Grant CNS-1755659.
