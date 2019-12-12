@@ -76,7 +76,7 @@ An example server has been included in `Sample_Server/FlaskServer.py`
 
 This server runs using python3 and relevant requirements can be found in `Sample_Server/requirements.txt`
 
-## Requirements
+### Requirements
 
 Local inference requires Android API 23 or above.
 
