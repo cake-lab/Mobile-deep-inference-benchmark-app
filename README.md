@@ -21,7 +21,8 @@ This application was used for benchmarking on-device and cloud-based performance
 #### Network Latency
 ---
 
-![Network Latency](images/network_speeds.png)
+<!--![Network Latency](images/network_speeds.png)-->
+<div align="center"><img src="images/network_speeds.png" width="500"></div>
 
 ***Mobile Network Latency and Variation*** *Mobile Devices experience large variation between network types and even between different requests using the same network.  This variation makes cloud-based inference potentially more unpredictable.*
 
@@ -33,7 +34,8 @@ Therefore, in order to provide good user experience, it is important to make run
 #### On-device Latency
 ---
 
-![On-device Latency](images/device_speeds.png)
+<!--![On-device Latency](images/device_speeds.png)-->
+<div align="center"><img src="images/device_speeds.png" width="500"></div>
 
 ***On-device Inference Latency*** *On-device inference latency depends heavily on the phone capabilities.  Newer phones can perform better but many older devices experience large latency.*
 
@@ -47,7 +49,8 @@ Much of this latency is due to model load time, so improving on-device managemen
 
 ---
 
-![MODI System Design](images/sys_design.png)
+<!--![MODI System Design](images/sys_design.png)-->
+<div align="center"><img src="images/sys_design.png" width="500"></div>
 
 ***MODI System Design*** *The proposed layout of the MODI system leverages three tiers of model locations and execution options to provide and pick the best model for a given inference.*
 
