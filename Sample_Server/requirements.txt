@@ -1,2 +1,2 @@
-Flask==1.1.1
+Flask==2.3.2
 tensorflow==1.15.4
